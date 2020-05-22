@@ -26,3 +26,13 @@ Many Can use JavaScript&amp;CSS Script
 ```html
     <script src="http://xiezheyuan.github.io/cdns/respond.js/respond.min.js" type="text/javascript"></script>
 ```
+
+### Angular.js
+```html
+    <script src="http://xiezheyuan.github.io/cdns/angular.js/angular.min.js" type="text/javascript"></script>
+```
+
+### BackBone.js
+```html
+    <script src="http://xiezheyuan.github.io/cdns/backbone.js/backbone.min.js" type="text/javascript"></script>
+```
