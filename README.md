@@ -18,5 +18,11 @@ Many Can use JavaScript&amp;CSS Script
     <script src="http://xiezheyuan.github.io/cdns/highlight.js/highlight.pack.js" type="text/javascript"></script>
     <link href="http://xiezheyuan.github.io/cdns/highlight.js/styles/default.css" rel="stylesheet">
   ```
-  
-  
+### HTML5Shiv
+```html
+    <script src="http://xiezheyuan.github.io/cdns/html5shiv/html5shiv.min.js" type="text/javascript"></script>
+```
+### Respond.js
+```html
+    <script src="http://xiezheyuan.github.io/cdns/respond.js/respond.min.js" type="text/javascript"></script>
+```
